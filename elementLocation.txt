@@ -1,0 +1,1 @@
+//*[@id='login_credentials']/*[text()] //*[@id='login_credentials'] //*[@id='user-name'] //*[@id='password'] //*[@id='login-button'] //*[@id='root']/div/div[2]/div[2]/div/div[2] //*[@id='item_4_title_link']/div //*[@id='inventory_container']/div/div[1]/div[2]/div[2]/div
